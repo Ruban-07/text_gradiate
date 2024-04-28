@@ -20,9 +20,9 @@ A Flutter package for creating gradient text in an fastest way. This package all
 ## Screenshots📸
 
 <div>
-  <img src="https://ruban-07.github.io/text_gradiate/assets/images/samp1.jpg" width="300" />
-  <img src="https://ruban-07.github.io/text_gradiate/assets/images/samp2.jpg" width="300" />
-  <img src="https://ruban-07.github.io/text_gradiate/assets/images/samp3.jpg" width="300" />
+  <img src="https://ruban-07.github.io/text_gradiate/assets/images/samp1.jpg" width="300" alt="sample-image 1" />
+  <img src="https://ruban-07.github.io/text_gradiate/assets/images/samp2.jpg" width="300" alt="sample-image 2" />
+  <img src="https://ruban-07.github.io/text_gradiate/assets/images/samp3.jpg" width="300" alt="sample-image 3" />
 </div>
 
 ## Installation📦
